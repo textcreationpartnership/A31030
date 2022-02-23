@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jacob at his journeys end, or, Part of his last words uttered to his son Joseph, and the rest of his children, immediately before his being gathered to his fathers a sermon preached at the interment of ... William, Lord Brereton of Brereton in Cheshire ... / by A.B.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31030</idno>
+            <idno type="STC">Wing B9</idno>
+            <idno type="STC">ESTC R3284</idno>
+            <idno type="EEBO-CITATION">13073036</idno>
+            <idno type="OCLC">ocm 13073036</idno>
+            <idno type="VID">97170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jacob at his journeys end, or, Part of his last words uttered to his son Joseph, and the rest of his children, immediately before his being gathered to his fathers a sermon preached at the interment of ... William, Lord Brereton of Brereton in Cheshire ... / by A.B.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lowndes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brereton, William, --  Sir, 1604-1661.</term>
+               <term>Bible. --  O.T. --  Genesis XLVIII --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97170:1"/>
+            <pb facs="tcp:97170:1" rendition="simple:additions"/>
+            <p>JACOB AT HIS Journeys End: <hi>OR,</hi> Part of his laſt words, uttered to his Son <hi>JOSEPH,</hi> and the reſt of his Children, Immediately before his being gathered to his Fathers.</p>
+            <p>A SERMON PREACHED At the Interment of the Truly Noble, and Right Honourable, <hi>WILLIAM</hi> Lord <hi>Brereton</hi> of <hi>Brereton</hi> in <hi>Cheſhire.</hi>
+            </p>
+            <p>For the benefit of thoſe who are Lovers of Piety, Virtue, Loyalty, and true Nobility.</p>
+            <p>By <hi>A. B.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 116. 15.</bibl> Precious in the ſight of the Lord is the death of his Satnts.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Lowndes,</hi> at the White Lion in St. <hi>Pauls</hi> Church-yard. 1665.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:97170:2"/>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>Joh. Hall, <hi>R. P. D. Epiſc. Lond. à ſac. Domeſt.</hi>
+               </signed>
+               <dateline>Ex adib. Londinenſ. <date>Jan. 10. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97170:2"/>
+            <epigraph>
+               <bibl>Gen. 48. 21.</bibl>
+               <q>And <hi>Iſrael</hi> ſaid unto <hi>Joſeph,</hi> Behold, I dye<g ref="char:punc">▪</g>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He words are a part of that diſcourſe which old Father <hi>Iſrael</hi> had with his Son <hi>Joſeph</hi> a little before his death.</p>
+            <p>They are ſo plain and intelligible conſidered by themſelves, that I need not (nor do I think it convenient) to wear out any part of that ſhort time I am to detain you here, in ſhow<g ref="char:EOLhyphen"/>ing you the coherence of them with the former.</p>
+            <p>We have conſiderable in them,</p>
+            <p n="1">1. The Speaker, <hi>Iſrael</hi> the Father;</p>
+            <p n="2">2. The Perſon ſpoken to, <hi>Joſeph</hi> the Son;</p>
+            <p n="3">3. The Subject matter or thing ſpoken of, <hi>Death,</hi> the death of the Speaker, <hi>I dye.</hi>
+            </p>
+            <p n="4">4. The weight or great concernment of the truth or ſubject ſpoken of, intimated by the <hi>Ecce Attentionis,</hi> or note of Obſervation prefixed, <hi>Be<g ref="char:EOLhyphen"/>hold, Behold I dye.</hi>
+            </p>
+            <pb n="2" facs="tcp:97170:3"/>
+            <p>I ſhall trouble you but with a very ſhort diſ<g ref="char:EOLhyphen"/>courſe of the Perſons: and ſay but little of <hi>Iſrael</hi> the Father, who is the Speaker; and leſs of <hi>Joſeph</hi> the Son ſpoken to: and yet a word or two of either.</p>
+            <p n="1">1. Concerning <hi>Iſrael</hi> the Father, and here the Speaker; two things may be conſidered, Firſt his Perſon, who, and what manner of man he was.</p>
+            <p>It was the ſame perſon known formerly by another name: that is by the name of <hi>Jacob.</hi> God<note place="margin">Gen. 32. 28.</note> chang'd his name, <hi>Gen.</hi> 32. 28. (ſo alſo <hi>chap. 35. 10.) Thou ſhalt no more be called</hi> Jacob, <hi>but</hi> Iſrael. So God before had made an addition to <hi>Abrams</hi> name, <hi>Gen.</hi> 17. 5. and chang'd <hi>Sarah's</hi> too, <hi>ver.</hi> 15. And it is obſerved by ſome, that God hath not uſually added to, nor given a new name immedi<g ref="char:EOLhyphen"/>ately to any, but ſuch as in their generations were eminent and extraordinary perſons.</p>
+            <p>Such a one was <hi>Iſrael;</hi> as <hi>Pererius</hi> obſerves, <hi>toti<g ref="char:EOLhyphen"/>us &amp; ſolius Populi Dei Parens,</hi> The Father of Gods people, and of them only, that were in covenant with God.</p>
+            <p>
+               <hi>Abraham</hi> and <hi>Iſaac</hi> were famous in their genera<g ref="char:EOLhyphen"/>tion, and men of renown; yet could it not be ſo ſaid of them. For <hi>Abraham</hi> was Father to <hi>Iſmael</hi> as well as <hi>Iſaac,</hi> and ſo Father of the <hi>Iſmaelites</hi> as well as of the faithful; and <hi>Iſaac</hi> was <hi>Eſaus</hi> Father
+<pb n="3" facs="tcp:97170:3"/> as well as <hi>Jacobs,</hi> and ſo Father of the <hi>Edomites</hi> as well as the <hi>Iſraelites:</hi> but <hi>Iſrael</hi> was the Father of the <hi>Iſraelites</hi> only; from him the people of God had their names, and were called <hi>Iſraelites,</hi> as we are called Chriſtians from Chriſt. And this is enough to ſhew he was an excellent and extraor<g ref="char:EOLhyphen"/>dinary Perſon.</p>
+            <p n="2">2. We may conſider the name.</p>
+            <p>Concerning which I have nothing to ſay at preſent, but what I have from <hi>Rivet</hi> in his exerci<g ref="char:EOLhyphen"/>tations on this book of Scripture, who tells us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. the word ſignifies <hi>Rectus Dei,</hi> a right or upright man of God; and this he ſays was St. <hi>Jeroms</hi> opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p n="2">2. <hi>Vir videns Deum,</hi> a man ſeeing God. And it is indeed true, firſt that <hi>Iſrael</hi> was an upright or a plain down-right man as we uſe to ſay: as our Saviour by his alluſion ſeems to confirm, when<note place="margin">
+                  <hi>John</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 47.</note> he ſays of <hi>Nathaniel,</hi> that <hi>he was a true Iſraelite in whom was no guile.</hi>
+            </p>
+            <p>And true it is, ſecondly, that he had ſeveral viſi<g ref="char:EOLhyphen"/>ons of God, and one particularly when he recei<g ref="char:EOLhyphen"/>ved this name, <hi>Gen.</hi> 32. 30. when he ſaw God face to face. But yet (as <hi>Rivet</hi> ſays) it is moſt proba<g ref="char:EOLhyphen"/>ble in the third place that he received this name becauſe he was <hi>Princeps cum Deo,</hi> prevailed and had<note place="margin">
+                  <hi>Hoſ.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 3.</note> power with God, as the reaſon is given by him that gave the name, <hi>Gen.</hi> 32. 28.</p>
+            <pb n="4" facs="tcp:97170:4"/>
+            <p>Compare theſe three ſeveral conjectures toge<g ref="char:EOLhyphen"/>ther, and there is reaſon to believe he was an emi<g ref="char:EOLhyphen"/>nent and illuſtrious perſon.</p>
+            <p n="2">2. Concerning <hi>Joſeph</hi> the Son, the Perſon here ſpoken to; it may be demanded how it came to paſs that <hi>Iſrael</hi> directed his ſpeech to him who was the youngeſt of all his ſons but <hi>Benjamin?</hi> of which this perhaps might be the reaſon, becauſe <hi>Joſeph</hi> was in higheſt power, as being advanced in <hi>Egypt</hi> above his brethren, and able to make pro<g ref="char:EOLhyphen"/>viſion for them.</p>
+            <p>The old man looked upon him as if he had been his firſt born, and gave him a portion above the reſt, <hi>ver.</hi> 22. Therefore leaves he the charge of carrying his bones out of <hi>Egypt</hi> to him; and puts him in mind that now he was neer his death. <hi>Be<g ref="char:EOLhyphen"/>hold I dye,</hi> which is the third particular in the Text; the Subject matter or thing ſpoken o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Death, <hi>Behold I dye.</hi>
+            </p>
+            <p n="3">3. The meaning I ſuppoſe to be this. I muſt dye, dye within a ſhort time. So <hi>Junius</hi> and <hi>Tre<g ref="char:EOLhyphen"/>melius</hi> read it, <hi>Brevi moriturus ſum.</hi> And this inter<g ref="char:EOLhyphen"/>pretation is confirmed by what we read before in the 23. <hi>chap.</hi> and 29. <hi>ver.</hi> The time drew near that <hi>Iſrael</hi> muſt dye.</p>
+            <p>I ſhall ſpeak to this point in this method.</p>
+            <p n="1">1. Firſt by ſhewing that what <hi>Iſrael</hi> ſaid of
+<pb n="5" facs="tcp:97170:4"/> himſelf was a truth, and that he might have ſaid it of <hi>Joſeph</hi> and all his poſterity as well as of him<g ref="char:EOLhyphen"/>ſelf: <hi>Behold I,</hi> and thou, and all thy poſterity muſt dye.</p>
+            <p n="2">2. It is a truth to be owned, acknowledged, &amp; apply'd, and every man is to ſay with <hi>Iſrael, I dye.</hi>
+            </p>
+            <p n="3">3. It is a notable and obſervable truth, as ap<g ref="char:EOLhyphen"/>pears from the additional note of a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bention, <hi>Be<g ref="char:EOLhyphen"/>hold, I dye.</hi>
+            </p>
+            <p>Firſt it is a truth not to be denied or gain ſaid. <hi>Solomon</hi> tels us <hi>of a time to dye as well as to be born, Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 3. 2. And he that denies this, doth in effect give God the lye, who told <hi>Adam</hi> (and in him his poſterity) <hi>in the day that thou eateſt thou ſhalt ſurely dye, Gen.</hi> 2. 17. So that it is true, Firſt becauſe of mans ſin, and Gods threatning and curſe thereupon.</p>
+            <p>So St. <hi>Paul, Rom. 5. 12. As by one man ſin entered into the world, and death by ſin, ſo Death paſſed upon all men, for that all have ſinned.</hi> Man gave ſin its entrance into the world, and ſin procures mans <hi>exit</hi> and removal out of the world.</p>
+            <p>Secondly, there is nothing can preſerve or reſ<g ref="char:EOLhyphen"/>cue from Death; none ever yet lived, nor do, nor ever ſhall live, but have dyed, or muſt dye; thoſe only excepted who were miraculouſly tranſlated, and ſuch as ſhall be found alive at the ſecond coming.</p>
+            <pb n="6" facs="tcp:97170:5"/>
+            <p>This the very <hi>Jews</hi> believed for truth, and therefore when they heard our Saviour ſay, <hi>if a man keep my ſaying he ſhall never ſee death, John</hi> 8. 51. they miſtaking his meaning, and thinking he had ſpoken it of bodily death, were offended at his words, and fell foul upon him, telling him, that now they knew that he had a Devil: for, ſay they, <hi>Abraham</hi> is dead, and the Prophets are dead.</p>
+            <p>If any thing could reprieve from death, proba<g ref="char:EOLhyphen"/>bly it muſt be either greatneſs or goodneſs.</p>
+            <p n="1">1. Not Greatneſs, <hi>For man being in honour abi<g ref="char:EOLhyphen"/>deth not, but is like the beaſts that periſh;</hi> that is, muſt dye as well as they, <hi>Pſal.</hi> 49. 12. So again <hi>Pſal. 82. 6. I have ſayd you are Gods,</hi> but <hi>ver. 7. Ye ſhall dye like men;</hi> Death knocks as boldly, and enters as irreſi<g ref="char:EOLhyphen"/>ſtably into the rich mans palace, as the poor mans cottage. <hi>Lazarus</hi> died, and ſo did the rich man alſo, and was buried with more pompous ſolem<g ref="char:EOLhyphen"/>nity it is likely, but with leſs comfort and advan<g ref="char:EOLhyphen"/>tage, as you may collect, if you view the paſſage, <hi>Luke</hi> 16. 22. Death when it comes with its com<g ref="char:EOLhyphen"/>miſsion makes no diſtinction: all in this reſpect are alike, and go to one place, ſaith <hi>Solomon,</hi> and are diſſolved into the like indiſtinguiſhable duſt.</p>
+            <p n="2">2. Nor Goodneſs. <hi>Jacob</hi> who was loved, dyed as well as <hi>Eſau</hi> that was hated: nay though Great<g ref="char:EOLhyphen"/>neſs and Goodneſs meet, they cannot exempt nor
+<pb n="7" facs="tcp:97170:5"/> reſcue from the grave<g ref="char:punc">▪</g> 
+               <hi>Iſrael</hi> was <hi>Princeps cum Deo,</hi> and <hi>Rectus Dei.</hi> He wraſtled with God and pre<g ref="char:EOLhyphen"/>vailed, yet when he came to grapple with Death he had the foyl.</p>
+            <p>None ſo great, none ſo good as our Bleſſed Re<g ref="char:EOLhyphen"/>deemer, yet when he was pleas'd to take our na<g ref="char:EOLhyphen"/>ture, and to bear our ſins, he ſunk under the un<g ref="char:EOLhyphen"/>ſupportable load, and the bitter cup of Death muſt not paſs by, but he muſt taſt and drink it. And ſure the ſervant is not greater, nor hath rea<g ref="char:EOLhyphen"/>ſon to expect to fare better than his Lord. If he dyed before he entered into glory, ſo muſt wee too; we muſt dye with him, if we will reign with him, and partake with him in death; if we will ſhare with him in glory. It hath been obſerv'd by others, that <hi>Moſes</hi> was bid go up and dye, but that we muſt dye before we can go up. But I add, that it was but to Mount <hi>Nebo</hi> whither <hi>Moſes</hi> muſt go up before his death. Neither he nor we can aſcend Mount <hi>Sion</hi> that is above, before we deſcend unto the Hades that is below: We muſt ſtoop to the grave ere we can riſe to glory.</p>
+            <p>So it is a truth, <hi>Iſrael</hi> and we too muſt dye. 2. It is a truth that <hi>Iſrael</hi> did and we muſt apply.</p>
+            <p>I dye ſayd old <hi>Iſrael.</hi> I am a ſtranger and a ſo<g ref="char:EOLhyphen"/>journer with thee, as all my fathers were; <hi>Oh ſpare me before I go hence,</hi> ſaith <hi>David, Pſal. 39. 22. My days
+<pb n="8" facs="tcp:97170:6"/> are ſwifter than a Weavers Shuttle,</hi> ſaith <hi>Job, cap. 7. 6. and my days are vanity</hi> ſaith he, <hi>ver.</hi> 16.</p>
+            <p>
+               <hi>The time of my departure is at hand,</hi> ſaid S. <hi>Paul, 2 Tim.</hi> 4. 6. And <hi>my life draws nigh to the grave,</hi> ſaith <hi>David</hi> again, <hi>Pſal.</hi> 88. 2.</p>
+            <p>So that unleſs a man can ſay that he is better than <hi>David, Abraham, Iſaac,</hi> or <hi>Jacob,</hi> than <hi>Moſes</hi> and the Prophets, and all his Predeceſſors, he muſt ſay with <hi>Iſrael, I die.</hi>
+            </p>
+            <p>And he muſt not ſay it onely, but take notice of it: For,</p>
+            <p n="3">3. This is a notable and obſervable Truth, as the word <hi>Behold,</hi> which is prefixed, doth imply.</p>
+            <p n="1">1. It is a conſiderable Truth in reſpect of a mans ſelf, and his own death: For,</p>
+            <p>Firſt, this conſideration will make the thoughts of death leſs troubleſome. <hi>Elijah</hi> could pray for death, when he conſidered it had been the portion of his fathers, and that he was no better than they, 1 <hi>Kin.</hi> 19. 4. Though the thoughts of company cannot abate the miſeries of the ſecond death, they may leſſen the terrours of the firſt; St <hi>Paul</hi> could deſire to be diſſolved, when he thought of being with Chriſt who was dead before him.</p>
+            <p n="2">2. This conſideration that we muſt die, may by Gods bleſsing make us more careful how we live.</p>
+            <p>It is the indiſcreeteſt folly, and the greateſt im<g ref="char:EOLhyphen"/>providence
+<pb n="9" facs="tcp:97170:6"/> imaginable, for a fleeting ſoul to feed it ſelf with hopes of going to this or that place, and getting this or that gain to morrow, when it may be loſt to day: To bath it ſelf in pleaſures, when 'tis ready to be raviſhed into everlaſting burnings; or promiſe it ſelf reſt for many years, when it may be ſnatch'd from its deluding de<g ref="char:EOLhyphen"/>lights before the approaching night. If we muſt die, tis fit we take time to live: to live to the Lord, that we may dye in the Lord, and live hereafter with the Lord.</p>
+            <p n="3">3. This conſideration that we muſt die, ſhould make us ſtrive to do all the good we can while we live. <hi>Whatſoever thy hand findeth to do, do it with thy might</hi> (or, <hi>do it quickly</hi>) ſaith <hi>Solomon, Ec.</hi> 9. 10. and he adds the reaſon for his advice, <hi>for there is no work, nor device nor knowledge in the grave whither thou goeſt.</hi> Death is that night when no man can work; <hi>Therefore while we have time let us do good to all, Gal.</hi> 6. 10. to our ſelves and to others too. <hi>Dives (Luke</hi> 16.) had no permiſsion to re<g ref="char:EOLhyphen"/>turn to his Fathers houſe to warn his Brethren. When a man is dead and gone hence, <hi>his place ſhall know him no more, Job</hi> 7. 10.</p>
+            <p>The grave is the den of that roaring lion from whence <hi>veſtigia nulla ret<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orſum;</hi> the place to which all go, and from whence none return.</p>
+            <pb n="10" facs="tcp:97170:7"/>
+            <p>But perhaps the young gallant may think, that though this doctrine may be ſeaſonably preach'd to thoſe of old <hi>Iſraels</hi> age, and to his own decrepit friends or father, that are as weary of the world as he is of them; it is yet too ſoon to have his de<g ref="char:EOLhyphen"/>lights eclips'd, or his delicate ears ſtruck with ſuch un welcom and terrible truths. But let him con<g ref="char:EOLhyphen"/>ſider, he is growing up, and ripening for death from the time he firſt had life. 'Tis true what <hi>Se<g ref="char:EOLhyphen"/>neca</hi> ſays, <hi>tunc quoque cùm creſcimus decreſcit vita,</hi> each day that makes the time he hath lived longer, makes the remainder ſhorter. Thy glaſs is ſtill running, and the more ſands are ſpent already, the fewer are behind.</p>
+            <p n="2">2. And as we are concerned in reſpect of our own, ſo it doth concern us to take notice of the death of others alſo. Firſt when we ſee or hear of the death of another, we ſhould remember and prepare for our own. <hi>Joſeph</hi> a ſon is not privi<g ref="char:EOLhyphen"/>leg'd above <hi>Iſrael</hi> the father; though he was born after him, he might have dyed before him.</p>
+            <p n="2">2. Since others as well as our ſelves muſt dye, it is our part to do all the good we can unto them, and get all the good we can from them, before they dye. If they live in the fear of God, imi<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e them, and ſo ſhalt thou dye like them, and live for ever with them.</p>
+            <pb n="11" facs="tcp:97170:7"/>
+            <p>I ſhall detain you no longer in the proſecuti<g ref="char:EOLhyphen"/>on of the Text already treated on; there remains another ſubject, I mean that Honourable though liveleſs ſpectacle that hath brought us unwilling<g ref="char:EOLhyphen"/>ly hither, and is the ſad occaſion of this ſolemnity.</p>
+            <p>I could wiſh (had God ſeen it good) there had been no ſuch occaſion of this concourſe; or that being met, the whole charge of entertaining you here had been the province and task of ſome o<g ref="char:EOLhyphen"/>ther of my brethren, that had been every way more able to have diſcharged it than my ſelf. It may (I hope) be a pardonable excuſe, if I allege for my ſelf, that my meditations have been much (very much) diſcompoſed by my ſorrows, that mine eyes have ſometimes vyed drops with my pen, while I was about this ſad task. And pro<g ref="char:EOLhyphen"/>bably, had I loved and honoured him leſs, I might have performed this ſervice better.</p>
+            <p>But tis fit I leave Apologies and come to my re<g ref="char:EOLhyphen"/>maining task; that is, to make ſome honourable mention of our <hi>Iſrael</hi> now he is dead, whom we deſervedly honoured while he was alive.</p>
+            <p>I ſhall not ſtick long upon the Parallel, yet ſhall I firſt obſerve, that our <hi>Iſrael,</hi> like him in the Text, was by God made happy in the number of ſo many ſurviving children, as were the heads of the twelve Tribes, though not all of the ſame Sex,
+<pb n="12" facs="tcp:97170:8"/> and had the addition of one grandchild more than <hi>Joſeph,</hi> preſented to departing <hi>Iſrael</hi> to receive his benediction: Of all which our <hi>Iſrael</hi> made fre<g ref="char:EOLhyphen"/>quent and affectionate mention, and to which to<g ref="char:EOLhyphen"/>gether with his own he bequeathed his bleſsing, as old <hi>Jacob</hi> did to the ſons of his ſon <hi>Joſeph.</hi>
+            </p>
+            <p n="2">2. The name <hi>Iſrael,</hi> as you heard before, was ſu<g ref="char:EOLhyphen"/>peradded to the former name of <hi>Jacob</hi> (as ſome think) or rather given in its ſtead, becauſe he was <hi>Rectus Dei,</hi> an up right man. <hi>Jacob</hi> ſignifies a ſup<g ref="char:EOLhyphen"/>planter, ſome conjecture he was ſo called becauſe he got his brother <hi>Eſaus</hi> birth-right by a wile: but the word ſignifies properly <hi>plantam tenens,</hi> and the child was in likelyhood called <hi>Jacob,</hi> becauſe about the time of his birth he held his twin bro<g ref="char:EOLhyphen"/>ther by the heel. Our Honoured Lord could not be called <hi>Jacob</hi> at all; for whoſe birth-right had he taken? We may ſay with St. <hi>Paul,</hi> he had wron<g ref="char:EOLhyphen"/>ged no man, defrauded no man; but he might be called <hi>Iſrael,</hi> for he was <hi>rectus Dei,</hi> had an up<g ref="char:EOLhyphen"/>right plain dealing ſoul; like <hi>Nathaniel, a true</hi> Iſraelite <hi>in whom was no guile.</hi>
+            </p>
+            <p n="3">3. <hi>Iſrael</hi> was <hi>vir videns Deum,</hi> a man that ſaw God; and ſo I doubt not but this Honourable Per<g ref="char:EOLhyphen"/>ſon did too, though not as <hi>Jacob</hi> face to face, yet by ſome ſuch means by which God is pleaſed to make diſcovery of himſelf to men in theſe latter times.</p>
+            <pb n="13" facs="tcp:97170:8"/>
+            <p>
+               <hi>Lyra</hi> (upon <hi>Geneſis</hi>) thinks it was by vertue of the Spirit of prophecy that old <hi>Iſrael</hi> foretold his death before it came, and ſaid, <hi>I dye.</hi> But whe<g ref="char:EOLhyphen"/>ther he had the Spirit of Prophecy or no, I do not queſtion; Sure I am there is no great need of any extraordinary Revelation to let a man of an 147. years of age (as <hi>Iſrael</hi> was) know that the time drew nigh that he ſhould dye: but I have reaſon to believe that there was ſomething more than ordinary in it (though being a man of ſingular re<g ref="char:EOLhyphen"/>ſervedneſs he did not diſcover it) that this Ho<g ref="char:EOLhyphen"/>nourable Perſon, when he was but about 52. years of age, and under no viſible diſtemper of body or mind, ſhould above three moneths ago, even then when he accompanied his dear and honour<g ref="char:EOLhyphen"/>able Mother to her long home, in his paſſage from the houſe to the Church, ſay with ſome kind of confidence, that he ſhould be the next that ſhould go that way; And before he was ſeiz'd with any ſickneſs, let fall ſome expreſsions in the hearing of his deareſt relations (whom he yet was moſt unwilling to grieve) ſignifying his expecta<g ref="char:EOLhyphen"/>tion, that ere long they ſhould have occaſion to Mourn for him. And I am the more confident that he had ſome foreſight of his approaching end, from one expreſsion uttered to my ſelf in the time of his viſitation, which was upon this occa<g ref="char:EOLhyphen"/>ſion.</p>
+            <pb n="14" facs="tcp:97170:9"/>
+            <p>We that were about him, and obſerved how lit<g ref="char:EOLhyphen"/>tle he was afraid, or ſpoke of what we ſo much ſuſ<g ref="char:EOLhyphen"/>pected, doubted that the nature of his diſeaſe had made him inſenſible of his danger; &amp; that though Death made irreſiſtable (though ſlow) aſſaults, he did not apprehend it; hereupon I did (as I con<g ref="char:EOLhyphen"/>ceiv'd I was oblig'd) make my private applicati<g ref="char:EOLhyphen"/>on to him, and dealt plainly with him; diſcover<g ref="char:EOLhyphen"/>ing to him our juſt fears, and his own great dan<g ref="char:EOLhyphen"/>ger, and admoniſhed him to prepare himſelf throughly for Death, which we doubted he could not avoid: And I was ſatisfied that he foreſaw his danger (and therefore had prepared for it) when I heard him ſay (and that with a ſerene counte<g ref="char:EOLhyphen"/>nance, and a very grave utterance) <hi>Parſon, I was ſenſible of this before any of you were.</hi>
+            </p>
+            <p>And we were afterwards ſatisfied why he was ſo long deſirous to conceal his danger; for when he ſaw it was to no purpoſe to endeavour to hide what his deareſt relations had diſcovered, and therefore thought) fit to yield, and in effect to ſay with old <hi>Iſrael, Behold I dye,</hi> and ſaw his deareſt Confort and the reſt about him, thereupon to give vent unto their paſsion and let it out in a floud of tears, he preſently added theſe words, (<hi>I, this is it I was afraid of</hi>) thereby declaring, that the reaſon why he ſeem'd to take ſo little notice of
+<pb n="15" facs="tcp:97170:9"/> his danger, was not becauſe he was inſenſible of it, but becauſe he would not have his Relations underſtand it, nor be troubled at it.</p>
+            <p n="4">4. <hi>Iſrael</hi> was ſo called (as moſt do probably think) be<g ref="char:EOLhyphen"/>cauſe he was <hi>Princeps cum Deo,</hi> and <hi>prevail'd with God when he wreſtled with him for a bleſsing,</hi> Gen. 32. 28.</p>
+            <p>It was our <hi>Iſraels</hi> cuſtom to wreſtle with God as <hi>Jacob</hi> did: Devotion was one part of his dayly exerciſe. And it hapned to him as to <hi>Iſrael, Gen.</hi> 32. For coming from his morning exerciſe, he was ſeiz'd (as <hi>Iſrael) with a lame<g ref="char:EOLhyphen"/>neſs in his thigh.</hi> And I make no queſtion, but that as he did, with <hi>Iſrael,</hi> go away with a bodily foyl, he receiv'd a ſpiritual bleſsing; and though he came (or rather was carried) off with a maim in the body, he was <hi>princeps cum Deo,</hi> and prevail'd for a bleſsing on his ſoul.</p>
+            <p>And I do not think fit, nor can I let paſs this obſerva<g ref="char:EOLhyphen"/>tion, without commending it to the careful notice and conſideration of all that hear me, that the great ſtroke by which God call'd him to himſelf, befell him preſently up<g ref="char:EOLhyphen"/>on his riſing from his private devotions, as if God had ſaid to him, Thy prayers are come up, and I come down to fetch thee up likewiſe! Thy work is done, and now I will do mine, and give thee a reward! Sure, happy is that devout ſoul whom his Lord when he cometh ſhall find ſo doing, ſtanding upon his watch, and calling up<g ref="char:EOLhyphen"/>on his God. Oh conſider it, how much more comfortable it is for a man to be found ſo doing, than to be ſnatch'd a<g ref="char:EOLhyphen"/>way with his <hi>Dalilah</hi> in his arms, or with an intemperate
+<pb n="16" facs="tcp:97170:10"/> cup in his hand, or a dam-me in his mouth, or any Idol in his heart, which might make him incapable of com<g ref="char:EOLhyphen"/>munion with his God! But I leave the Parallel, and of<g ref="char:EOLhyphen"/>fer him</p>
+            <p n="2">2. To your conſideration, as a Perſon of Honour, dif<g ref="char:EOLhyphen"/>ferent indeed from moſt other men of his age and time. The man I think is not to be found, that can juſtly ac<g ref="char:EOLhyphen"/>cuſe him, or blaſt his reputation or honour by juſtly charging him with diſsimulation, ot fraud, or unfaith<g ref="char:EOLhyphen"/>fulneſs, or lying, or incontinency, or drunkenneſs, or ſwearing, or any other notorious vice. I have had the happineſs to be frequently near him, and often in the hearing of him for a dozen years together, yet did I ne<g ref="char:EOLhyphen"/>ver (that I remember) hear any obſcene or filthy com<g ref="char:EOLhyphen"/>munication come from his mouth; nor obſerve him up<g ref="char:EOLhyphen"/>on any provocation, let any one of thoſe many oaths e<g ref="char:EOLhyphen"/>ſcape his lips, that many men now adays reckon and look upon as the greateſt, if not only ornament and grace of their diſcourſe.</p>
+            <p>But it is not enough to be <hi>extra vitia,</hi> without any no<g ref="char:EOLhyphen"/>rorious vice; God will not be ſatisfied with a negative holineſs; we muſt not only <hi>ceaſe to do evil, but learn to do well,</hi> Iſa. 1. And ſo did he. And that you may take a ſhort view of his vertues, I ſhall preſent him briefly to you in all, or moſt of his remarkable Relations, and offer to your conſiderations how he did carry himſelf towards his Correlates. And then I admoniſh and beſeech you to go and do likewiſe.</p>
+            <p n="1">
+               <pb n="17" facs="tcp:97170:10"/>1. Conſider him as a Chriſtian, and how he behaved himſelf towards God, both in the time of his health and ſickneſs.</p>
+            <p>While God enabled him to come hither, we ſeldome (very ſeldome) miſſed his early company here. He was reſolved that God loves the Gates of <hi>Syon,</hi> more than all the dwellings of <hi>Jacob;</hi> and will not be put off with our pretences of doing our Devotions in our Cloſet, when he expects us in the Church. Nor was his Devotion perſonated and put on to deceive the world, but he took his time for private as well as publick performances, as I have told you before.</p>
+            <p>In his ſickneſs thoſe three Chriſtian graces of Faith, Hope, and Charity, were very remarkable. He ſignified his Charity in forgiving all that had done him any inju<g ref="char:EOLhyphen"/>ry, and deſiring to be reconciled to all betwixt whom and himſelf there had been any miſunderſtanding and debate. His Faith and Hope he expreſſed to my un<g ref="char:EOLhyphen"/>worthy ſelf in private while he was able: affirming he did firmly relye on the merits and mediation of his Savi<g ref="char:EOLhyphen"/>our Jeſus; and through him hoped for a glorious Re<g ref="char:EOLhyphen"/>ſurrection. And in this Faith and Hope he earneſtly de<g ref="char:EOLhyphen"/>ſired, and received both the Abſolution of the Church, and the Sacrament of the Supper of the Lord.</p>
+            <p>When his tongue had fail'd to do its office, and we perceiv'd that he endured a great fight of afflictions; that the Lord delay'd his coming, and Death made but ſlow, though ſure approaches; I did (as I thought I was in du<g ref="char:EOLhyphen"/>ty
+<pb n="18" facs="tcp:97170:11"/> bound) adviſe him to ſearch his own heart: whether there were any thing yet undone that God expected he ſhould do, before he call'd him hence: and that he would ſignifie to us by ſome token, whether he hoped that his peace was perfected, and his conſcience quier. Whereupon he looked upon us with a more chearful countenance than it is ordinary for a dying man to ma<g ref="char:EOLhyphen"/>nifeſt: and then caſting up his eyes to Heaven, he layd his hand upon his heart, ſeeming to ſay, that all was quiet there, and that he died in Peace, and reſted in Hope.</p>
+            <p>His Piety and Devotion all along his ſickneſs was ve<g ref="char:EOLhyphen"/>ry exemplary. He acted his part in all the prayers, and that with a ſtronger and more chearful voice than we conceaved he had been able to utter, or did utter upon a<g ref="char:EOLhyphen"/>ny other occaſion. The laſt word (as I remember) that I heard him ſay, was <hi>Amen</hi> to our prayers; but he moved his lips when he could not uſe his tongue to do that of<g ref="char:EOLhyphen"/>fice, which yet held out beyond our expectations, and fail'd him not till very near his end.</p>
+            <p>And as his Piety was great towards God, ſo was Gods mercy towards Him; for though the ſtroke light on al<g ref="char:EOLhyphen"/>moſt all the one ſide of his body, it miſs'd his brain: So that by Gods great goodneſs he enjoy'd the uſe of his in<g ref="char:EOLhyphen"/>tellectuals, and all, or moſt of his ſenſes, in a wonderful vigour and acuteneſs towards his very latter end; inſo<g ref="char:EOLhyphen"/>much that he could hear our very whiſpers, diſtinguiſh his drink, ſee and know his viſitants, beyond the expe<g ref="char:EOLhyphen"/>ctation of his friends, and perhaps beyond the belief of Strangers.</p>
+            <pb n="19" facs="tcp:97170:11"/>
+            <p>And as his Piety, ſo was his patience very remarkable. He did endure much and long, but complain little or nothing at all; Oh me I am ſick, very ſick, oh me I am full of pain, was all that could he ſaid came from him tending towards a complaint.</p>
+            <p>You have heard of the patience of <hi>Job,</hi> ſaid St. <hi>James, c.</hi> 5. Yes we have heard of <hi>Jobs</hi> patience, and many of us have ſeen his; and I think thoſe that have ſeen and ob<g ref="char:EOLhyphen"/>ſerv'd it will ſay, they never ſaw his Chriſtian Patience &amp; Fortitude equalled, much leſs exceeded.</p>
+            <p n="2">2. Conſider him next in the relation of a Subject, con<g ref="char:EOLhyphen"/>cerning which I need to ſay but little, becauſe you all, or moſt of you know his loyalty and fidelity to his Sove<g ref="char:EOLhyphen"/>raign as well as my ſelf. Only let me mind you, that in the laſt ingagement in this County, he did not publick<g ref="char:EOLhyphen"/>ly appear untill there was great cauſe to doubt, if not de<g ref="char:EOLhyphen"/>ſpair of any good ſucceſs, which was an argument there was no other motive but meer Loyalty and Conſcience, that drew him to hazard Himſelf, his Sons that accom<g ref="char:EOLhyphen"/>panied him<g ref="char:punc">▪</g> and his Eſtate, rather than he would incur the ſuſpition of being backward to do his King and Country ſervice.</p>
+            <p n="3">3. Conſider him as a Son.</p>
+            <p n="1">1 A Son of the Church, whoſe peace he was very care<g ref="char:EOLhyphen"/>ful to maintain, &amp; whoſe orders he was ready to obſerve.</p>
+            <p>And as God gave him a very dutiful affection<g ref="char:punc">▪</g> to his Mother the Church; ſo he made the Church Service ſer<g ref="char:EOLhyphen"/>viceable &amp; comfortable unto him. I cannot think it poſsi<g ref="char:EOLhyphen"/>ble
+<pb n="20" facs="tcp:97170:12"/> that one that doth not really delight in, &amp; reciprocal<g ref="char:EOLhyphen"/>ly find comfort by the ſervice of the Church, ſhould ſo frequently and cheerfully joyn and bear a part in it as he did, notwithſtanding all the Obſtacles and Impediments of pain and ſickneſs; which is an argument that the Church ſervice is not ſo faulty as our ſelves, and that we might take pleaſure in it, &amp; reap profit by it, if our own corrupt hearts were not indiſpos'd and out of order.</p>
+            <p>I confeſs we owe much to his example if our Congre<g ref="char:EOLhyphen"/>gation be in practice any thing more obſervant of the Churches Orders, than ſome of our neighbours. Let the contemptible Prieſts (as ſome call us in ſcorn) ſay what they will, or can, the peremptory vulgar will do as they liſt; If their betters will not believe us, they will de<g ref="char:EOLhyphen"/>ſpiſe us; If a man of Authority, Honour or Worſhip will not be perſuaded to change his poſture, but keep his ſeat, they will uſe neither leg nor knee, unleſs it be to croſs the Church in her directions and commands: but believe it Gentlemen, it is no diſparagement to uſe your own tongues to make confeſsion of, and cry God mercy for your own ſins. Tis no diminution of your worth, to ap<g ref="char:EOLhyphen"/>pear and behave your ſelves with all humble reverence and ſubmiſsion, as the ſeveral parts of ſervice do require when you come before him to whom all things in Hea<g ref="char:EOLhyphen"/>ven and Earth do bow and obey. I hope you do believe this, and could wiſh that ſuch as yet do not, would (after the laudable example of this honourable <hi>Hero</hi>) in their ſeveral Congregations practiſe and do accordingly. I
+<pb n="21" facs="tcp:97170:12"/> confeſs this is ſpoken a little out of the way, but I hope it will be looked upon as a pardonable digreſsion, and cenſured as a needleſs impertinency.</p>
+            <p n="2">2. I might propoſe him for your example conſidered as a na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ural ſon; you know how obſervant and obſequi<g ref="char:EOLhyphen"/>ous he was to his aged and honoured Parent; and ſo fit to be a pattern to ſuch as are not ſo.</p>
+            <p n="4">4. As a Husband, he was chaſt and careful in keeping of his contract. I believe none more faithful to their con<g ref="char:EOLhyphen"/>jugal covenant, nor more loving to his Conſort; Inſo<g ref="char:EOLhyphen"/>much that I could never obſerve any ſuch uncomforta<g ref="char:EOLhyphen"/>ble brawls or breaches, as do too frequently diſturb the peace of many both meaner and noble families.</p>
+            <p n="5">5. As a Father, he was very affectionate and ſufficiently indulgent, yet not ſo indulgent but that he knew how, upon occaſion, to be ſevere too; it is known, <hi>He</hi> like his Heavenly Father, <hi>Heb. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.) hath very ſharply chaſtiſed thoſe whom he yet very dearly loved:</hi> and as a Father he did like old <hi>Iſrael</hi> call his children to him, and as he ſaw cauſe gave them his fatherly admonitions and bleſsing before he parted with them. And may thoſe bleſsings never be in vain, nor thoſe admonitions ever be forgotten.</p>
+            <p n="6">6. As a Lord and Maſter, he was meek and gentle, far from the temper of many both his equals and inferiours, who forgetting that they themſelves have <hi>Col.</hi> 4. 1. a ma<g ref="char:EOLhyphen"/>ſter in Heaven, do unmercifully threaten or care not to make ſlaves of their ſervants upon Earth; and it was one argument of the great reſpect he had, even to his mean<g ref="char:EOLhyphen"/>eſt
+<pb n="22" facs="tcp:97170:13"/> ſervants, in that he admitted all, and ſent for ſome of them to come and take their laſt leave and farewell from his dying lips,</p>
+            <p n="7">7. As a Landlord, he was courteous, kind, &amp; reſpective to his ſeveral Tenants: and it is known he took not the advantages that were offered to revenge or right himſelf of thoſe that had done him the greateſt injury &amp; wrong.</p>
+            <p n="8">8. As a Neighbour, he was ſufficiently known to be peaceable and quiet, more ready to compoſe differences, than make them, and to put up injuries than offer them.</p>
+            <p>Laſtly, as a Friend, he was faithful and conſtant, never known to betray his truſt, nor abuſe the credulity of thoſe that put any confidence in him. He was none of thoſe that will profuſely promiſe what they never pur<g ref="char:EOLhyphen"/>poſe to perform; It was common with him to be better than his word. If you asked him a courteſie, his very ſi<g ref="char:EOLhyphen"/>lence was frequently a conſent, and if you had not a de<g ref="char:EOLhyphen"/>nyal, you might be ſure of a grant.</p>
+            <p>To ſum up all, he was a true Chriſtian, and therefore in all reſpects ſuch a one as I have ſaid, a Loyal Subject, a Dutiful Son, a loving Husband, an indulgent Father, a reſpective Lord and Maſter, a good Neighbour, and a faithful Friend; and in his whole converſation ſuch a pattern of Piety, as is much more fit than eaſie to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <closer>God Almighty give us all Grace to follow all the good examples of Him and all other Servants of God, living with us, or dead before us; That living and dying like them, we may for ever hereafter reign with them, through our Saviour Jeſus Chriſt. Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97170:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
